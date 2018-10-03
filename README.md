@@ -11,9 +11,9 @@ Type following command in Linux console.
 ```
 $ python GenerateSolinas2010.py
 ```
-	GenerateSolinas2010.py executes nrnivmodl to create x86_64 directory and Start_test.hoc to create SimData directory.
+GenerateSolinas2010.py executes nrnivmodl to create x86_64 directory and Start_test.hoc to create SimData directory.
 
 ```
 $ nrngui Start.hoc
 ```
-	This command will be aborted with error. Start.hoc seems like main simulation file, but there are CVode error.
+This command will be aborted with error. Start.hoc seems like main simulation file, but there are CVode error.
